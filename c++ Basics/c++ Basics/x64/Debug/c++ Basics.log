@@ -1,0 +1,3 @@
+﻿  c++ Basics.cpp
+C:\Users\Sergio\Desktop\program\c++ Basics\c++ Basics\c++ Basics.cpp(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c++ Basics.vcxproj -> C:\Users\Sergio\Desktop\program\c++ Basics\x64\Debug\c++ Basics.exe
